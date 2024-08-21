@@ -1,0 +1,248 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "EasyModbusTCP/5.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/EasyModbus.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/EasyModbus.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "NModbus4/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/NModbus4.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/NModbus4.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "EasyModbusTCP/5.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/EasyModbus.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/EasyModbus.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "NModbus4/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/NModbus4.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/NModbus4.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-arm64": {
+      "EasyModbusTCP/5.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/EasyModbus.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/EasyModbus.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "NModbus4/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/NModbus4.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/NModbus4.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "EasyModbusTCP/5.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/EasyModbus.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/EasyModbus.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "NModbus4/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/NModbus4.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/NModbus4.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "EasyModbusTCP/5.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/EasyModbus.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/EasyModbus.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "NModbus4/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/NModbus4.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/NModbus4.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EasyModbusTCP/5.6.0": {
+      "sha512": "2a5a9smmIu0Tq5zdwMvgO+WDvUgH0JuNv/crAILrDKcNRb8P/AOx9PEyegBiMn1TGXLP3byu0zhsSSUrrVyyXw==",
+      "type": "package",
+      "path": "easymodbustcp/5.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "easymodbustcp.5.6.0.nupkg.sha512",
+        "easymodbustcp.nuspec",
+        "lib/net40/EasyModbus.dll",
+        "lib/net40/EasyModbus.xml"
+      ]
+    },
+    "NModbus4/2.1.0": {
+      "sha512": "hGoxVFImyP2UC/vyaBjS3ZCLEqn3nqDWOfiePUfSTPpI4EhF4xUe6VnQ5W6m9oFK/6unKAaWQZh89WE+I31Spw==",
+      "type": "package",
+      "path": "nmodbus4/2.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "NModbus4.pdb",
+        "lib/net40/NModbus4.dll",
+        "lib/net40/NModbus4.xml",
+        "nmodbus4.2.1.0.nupkg.sha512",
+        "nmodbus4.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "EasyModbusTCP >= 5.6.0",
+      "NModbus4 >= 2.1.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\juan_\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\juan_\\source\\repos\\ModbusClientApp\\ModbusClientApp\\ModbusClientApp.csproj",
+      "projectName": "ModbusClientApp",
+      "projectPath": "C:\\Users\\juan_\\source\\repos\\ModbusClientApp\\ModbusClientApp\\ModbusClientApp.csproj",
+      "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juan_\\source\\repos\\ModbusClientApp\\ModbusClientApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "EasyModbusTCP": {
+            "target": "Package",
+            "version": "[5.6.0, )"
+          },
+          "NModbus4": {
+            "target": "Package",
+            "version": "[2.1.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-arm64": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

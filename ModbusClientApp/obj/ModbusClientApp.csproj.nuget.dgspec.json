@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\juan_\\source\\repos\\ModbusClientApp\\ModbusClientApp\\ModbusClientApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\juan_\\source\\repos\\ModbusClientApp\\ModbusClientApp\\ModbusClientApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juan_\\source\\repos\\ModbusClientApp\\ModbusClientApp\\ModbusClientApp.csproj",
+        "projectName": "ModbusClientApp",
+        "projectPath": "C:\\Users\\juan_\\source\\repos\\ModbusClientApp\\ModbusClientApp\\ModbusClientApp.csproj",
+        "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan_\\source\\repos\\ModbusClientApp\\ModbusClientApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EasyModbusTCP": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "NModbus4": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

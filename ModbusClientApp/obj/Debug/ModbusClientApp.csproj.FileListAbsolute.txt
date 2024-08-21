@@ -1,0 +1,13 @@
+C:\Users\juan_\source\repos\ModbusClientApp\ModbusClientApp\bin\Debug\ModbusClientApp.exe.config
+C:\Users\juan_\source\repos\ModbusClientApp\ModbusClientApp\bin\Debug\ModbusClientApp.exe
+C:\Users\juan_\source\repos\ModbusClientApp\ModbusClientApp\bin\Debug\ModbusClientApp.pdb
+C:\Users\juan_\source\repos\ModbusClientApp\ModbusClientApp\bin\Debug\EasyModbus.dll
+C:\Users\juan_\source\repos\ModbusClientApp\ModbusClientApp\bin\Debug\NModbus4.dll
+C:\Users\juan_\source\repos\ModbusClientApp\ModbusClientApp\obj\Debug\ModbusClientApp.csproj.AssemblyReference.cache
+C:\Users\juan_\source\repos\ModbusClientApp\ModbusClientApp\obj\Debug\ModbusClientApp.Form1.resources
+C:\Users\juan_\source\repos\ModbusClientApp\ModbusClientApp\obj\Debug\ModbusClientApp.Properties.Resources.resources
+C:\Users\juan_\source\repos\ModbusClientApp\ModbusClientApp\obj\Debug\ModbusClientApp.csproj.GenerateResource.cache
+C:\Users\juan_\source\repos\ModbusClientApp\ModbusClientApp\obj\Debug\ModbusClientApp.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\ModbusClientApp\ModbusClientApp\obj\Debug\ModbusCl.AE00E4F4.Up2Date
+C:\Users\juan_\source\repos\ModbusClientApp\ModbusClientApp\obj\Debug\ModbusClientApp.exe
+C:\Users\juan_\source\repos\ModbusClientApp\ModbusClientApp\obj\Debug\ModbusClientApp.pdb

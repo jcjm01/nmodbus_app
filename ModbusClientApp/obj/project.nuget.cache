@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZklCZUEPnqU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juan_\\source\\repos\\ModbusClientApp\\ModbusClientApp\\ModbusClientApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juan_\\.nuget\\packages\\easymodbustcp\\5.6.0\\easymodbustcp.5.6.0.nupkg.sha512",
+    "C:\\Users\\juan_\\.nuget\\packages\\nmodbus4\\2.1.0\\nmodbus4.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
